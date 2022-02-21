@@ -10,6 +10,6 @@ Quick setup guide. For more details on the functionality visit https://takeondev
 
 4. Optional: Disable stricthostkey checking from the master node if required. Or simply ensure that you have connected via SSH at least once to you managed node.
 
-5. Run the script. Example: Ansible-Playbook playbook.yml
+5. Run the script. Example: ansible-playbook playbook.yml
 
 6. Additional step: Encrypt the password file with ansible vault as required. I have left as is because it is for a demo
